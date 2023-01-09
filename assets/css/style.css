@@ -31,8 +31,8 @@ header {
     background-size: cover;
     min-height: 360px;
     transition:  15s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all 15s ease-in-out;
+    -webkit-transition: all 15s ease-in-out;
     
 }
 .name {
